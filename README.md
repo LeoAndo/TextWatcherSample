@@ -12,5 +12,5 @@ TextWatcher example app.<br>
 
 Android X's Kotlin extension library allows to implement TextWatcher processing concisely.<br>
 [doOnTextChanged](https://developer.android.com/reference/kotlin/androidx/core/widget/package-summary#doontextchanged)<br>
-[youtube link](https://youtu.be/nKzvYBMdm54?t=168)
-[core-ktx lib](https://developer.android.com/jetpack/androidx/releases/core?hl=ja#declaring_dependencies)
+[youtube link](https://youtu.be/nKzvYBMdm54?t=168)<br>
+[core-ktx lib](https://developer.android.com/jetpack/androidx/releases/core?hl=ja#declaring_dependencies)<br>
